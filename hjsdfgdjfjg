@@ -1,0 +1,6 @@
+local plr = game:GetService("Players").LocalPlayer
+if plr:IsInGroup("13996238") then
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/artas01/artas01/main/TheRakeRemastered_byHerades"))()
+    else
+    plr:Kick("Join Group To Open Script. (roblox.com/groups/13996238/W4LLSH)")
+end
